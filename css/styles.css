@@ -1,0 +1,33 @@
+body {
+  background-color: #AEFEFF;
+}
+.josh {
+  background-color: #AEFEFF;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+hr:hover {
+  border-color: gold;
+}
+
+h1 {
+  color: #35858B;
+  }
+h1:hover {
+  color: white;
+}
+h3 {
+  color: #35858B;}
+h3:hover {
+  color: white;
+}
+
+p {color: #072227;}
+ul {color: #072227;}
+table {color: #072227;}
+ol {color: #072227;}
